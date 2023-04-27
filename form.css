@@ -1,0 +1,24 @@
+*{
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('./nextflix.png')
+}
+form{
+    background-color: rgb(203, 60, 60  o.7);
+    width: 400px;
+    margin:100px auto;
+    height: 100%;
+    padding: 20px;
+    border-radius: 3px;
+}
+label{
+    padding-left: 20px;
+}
+input{
+    padding: 5px;
+    margin: 10px;
+    margin-left: 20px;
+}

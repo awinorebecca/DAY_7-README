@@ -1,0 +1,1 @@
+form are used for future imputs.eg passwords,username,signout form used an imput element
