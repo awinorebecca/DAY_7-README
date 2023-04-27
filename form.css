@@ -7,7 +7,7 @@ body{
     background-image: url('./nextflix.png')
 }
 form{
-    background-color: rgb(203, 60, 60  o.7);
+    background-color:red rgb(203, 60, 60  o.7);
     width: 400px;
     margin:100px auto;
     height: 100%;
